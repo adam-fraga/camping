@@ -1,0 +1,60 @@
+.main_pro {
+  color: white;
+  height: 98vh;
+  background: center url("../img/Ardeche3.jpg");
+  background-size: cover;
+  text-align: center;
+}
+
+.main_pro_sec {
+  color: white;
+  height: 98vh;
+  background: center url("../img/Ardeche3.jpg");
+  background-size: cover;
+  text-align: center;
+}
+
+.main_pro_ter {
+  color: white;
+
+  background: center url("../img/Ardeche3.jpg");
+  background-size: cover;
+  text-align: center;
+}
+
+.main-sec {
+  background: rgba(0, 0, 0, 0.7);
+  border: 2px solid white;
+  margin: 10% 20% 0% 20%;
+  height: 300px;
+}
+
+.main-sec-inp {
+  height: 50px;
+}
+
+.main-ter {
+  background: rgba(0, 0, 0, 0.7);
+  border: 2px solid white;
+  margin: 10% 20% 0% 20%;
+  height: 150px;
+}
+
+.main-res {
+  background: rgba(0, 0, 0, 0.7);
+  border: 2px solid white;
+  margin: 10% 20% 0% 20%;
+}
+
+.field_tab {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 2% 5% 1% 5%;
+  padding: 2% 5%;
+  color: white;
+}
+
+.txt__label {
+  color: lightgreen;
+  margin: 10px;
+}
